@@ -9,3 +9,4 @@ SC_uint(_EmissionUseTex, 0, [SCToggle], "Use Texture", "")
 
 SC_uint(_EmissionMaskChannel, 3, [SCCache][SCMaskChannel], "__MaskChannel", "")
 SC_uint(_EmissionUseMask, 1, [SCToggle], "Use Mask", "")
+SC_uint(_EmissionUsePhaseAdd, 0, [SCToggle], "Additive Shading", "")

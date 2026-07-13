@@ -26,3 +26,5 @@ msgstr "発光テクスチャ"
 msgid "Use Mask"
 msgstr "マスクを使う"
 
+msgid "Additive Shading"
+msgstr "加算シェーディングを行う"
